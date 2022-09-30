@@ -1,0 +1,26 @@
+{
+    "msg": "Thank You",
+    "Status Code": "200",
+    "data": {
+    "isActive": "false",
+    "Admob_native": "ca-app-pub-3940256099942544/2247696",
+    "Admob_Interstitial": "ca-app-pub-3940256099942544/1033173",
+    "Admob_Banner": "ca-app-pub-3940256099942544/6300971",
+    "Admob_OpenAd": "ca-app-pub-3940256099942544/341983",
+    "is_screen_show": "false",
+    "isBackIns": "false",
+    "adColor":"#FF0000",
+    "is_exit_screen_ad_show": "true",
+    "is_first_screen_show": "false",
+    "is_second_screen_show": "false",
+    "is_InterstitialShow": "true",
+    "is_NativeShow": "true",
+    "is_panalShow": "false",
+    "isExitNative": "false",
+    "ins_Counter": "2",
+    "isReviewDailog": "false",
+    "Privacy": "https://codexapp.codexperts.in/Gbwhat/GbPrivacyPolicy.html",
+    "new_app_url": "https://play.google.com/store/apps/details?id=gbwhats.gbwhatsapp.gblatestversion",
+    "show_app_new_dialog": "false"
+    }
+}
