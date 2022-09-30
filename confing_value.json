@@ -15,7 +15,7 @@
     "is_second_screen_show": "false",
     "is_InterstitialShow": "true",
     "is_NativeShow": "true",
-    "is_panalShow": "false",
+    "is_panalShow": "true",
     "isExitNative": "false",
     "ins_Counter": "2",
     "isReviewDailog": "false",
